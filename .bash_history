@@ -129,3 +129,8 @@ git remote -v
 git push origin master
 git pull origin master
 git push origin master
+cd myjavademo
+ls
+git push origin master
+git add .
+git commit -m "my commit"
